@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Test Markdown list
+- [ ] Task One
+- [ ] Task Two
